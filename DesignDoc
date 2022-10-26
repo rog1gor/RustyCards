@@ -1,0 +1,24 @@
+POMYSŁY NA ROZGRYWKĘ:
+    1. Więcej niż jeden rząd (do dokminienia kształt)
+
+CELE:
+    1. Łupanie w twarz :3
+
+MECHANIKI:
+    0. Łupanie kartami jak w HS
+    1. Delayed łupanie w twarz (np zbieranie pkt)
+    2. Mana
+	> Jedna dodatkowa, neutralna na ture
+	> Karty, które zmieniają mana na konkretne kolory
+	> Jeśli karta kosztuje kolorową mane to:
+	    - ALBO odrzucić dodatkową kartę tego koloru
+	    - ALBO zapłacić dwie dowolne many
+	    - Do przekminienia/wytestowania
+    3. Brak instantów
+    4. Jedna karta na ture
+    5. Ograniczenia na wielkość decku
+
+KOLEJNOŚĆ PROJEKTOWANIA:
+    1. Serwer + Klient
+    2. Mechaniki
+    3. GUI
