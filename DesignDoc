@@ -16,7 +16,7 @@ MECHANIKI:
 	    - Do przekminienia/wytestowania
     3. Brak instantów
     4. Jedna karta na ture
-    5. Ograniczenia na wielkość decku
+    5. Ograniczenia na ilość posiadanych kart
 
 KOLEJNOŚĆ PROJEKTOWANIA:
     1. Serwer + Klient
