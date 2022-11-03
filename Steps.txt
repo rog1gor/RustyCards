@@ -1,0 +1,21 @@
+Krok 1:
+    > Jedna typ karty (karte można trzymać jako enum)
+    > Jeden typ many
+    > Gra sieciowo w terminalu (bez serwera)
+        Komunikacja:
+        > Akcja do wykonania
+        > Stan gry do walidacji
+        Dostępne komendy:
+        > wyświetlenie stanu gry
+        > zagranie karty na wybrane pole
+        > atak kartą w wybrane pole
+        > koniec tury
+        Dodatkowo implementacja końca gry
+
+Kork 2:
+    > Stworzenie GUI
+    > Dodanie animacji (basic)
+    > Stworzenie serwera do łączenia graczy
+
+Krok 3:
+    > Dodanie więcej kart i mechanik
